@@ -18,7 +18,6 @@
   ##
  
 <div> 
-  <a href="https://datastudio.google.com/reporting/ffb6f727-9421-4c8c-a545-9e33fe118a20/page/Sm3PB" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andrerondi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/arondi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.facebook.com/rondi.andre" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 

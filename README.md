@@ -1,6 +1,5 @@
 ## Oiii eu sou a Andre Rondi, apaixonado por tecnologias!
 <div align="center">
-  <a href="https://datastudio.google.com/reporting/ffb6f727-9421-4c8c-a545-9e33fe118a20/page/Sm3PB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrerondi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrerondi&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
